@@ -1,4 +1,4 @@
- BValve — Demo
+# BValve — Demo
 
 Plataforma web para la gestión de **cotizaciones, inventario y clientes**, desarrollada con **Next.js + TypeScript + Tailwind CSS**.  
 Esta demo corresponde a la **interfaz del sistema (frontend)**
