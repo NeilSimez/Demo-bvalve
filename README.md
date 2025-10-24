@@ -4,7 +4,7 @@ Plataforma web para la gestión de **cotizaciones, inventario y clientes**, desa
 Esta demo corresponde a la **interfaz del sistema (frontend)**
 
  **Demo pública:**  
- [[https://demo-bvalve-e0mia5x4z-daniels-projects-65c4e4bd.vercel.app/dashboard/main](https://demo-bvalve-e0mia5x4z-daniels-projects-65c4e4bd.vercel.app/dashboard/main)](https://demo-bvalve.vercel.app/dashboard/main)
+ [[https://demo-bvalve.vercel.app/dashboard/main)]
 
 ---
 
